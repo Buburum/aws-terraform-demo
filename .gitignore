@@ -1,6 +1,5 @@
 kube-config
 *.p12
-*.yaml
 *.hcl
 *.txt
 
