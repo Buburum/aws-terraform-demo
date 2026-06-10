@@ -16,6 +16,7 @@ variable "env_name" {
   default     = "dev"
 }
 
+# Project variables
 variable "project_name" {
   description = "Project name"
   type        = string
